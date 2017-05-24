@@ -1,0 +1,12 @@
+'''
+Chris Kortbaoui
+chris.kortbaoui@owl.ucc.edu
+April 27, 2017
+The name of my program will be the ZyBooks Chapter 5-8 Trivia Game.
+The program will consist of a main menu that will lead a user to either start the game or quit. 
+If they choose to start the game, it will lead them through a series of 10 multiple choice and true/false questions.
+They will choose an answer and the program will store it into a list.
+Once they complete all 10 questions, it will retrieve their score and let them know what it is. 
+The user will then be able to start again from the beginning to get a better score or quit. 
+I plan to use eclipse to program this project. 
+'''
